@@ -1,2 +1,2 @@
-# MasterThesis
-Learning Rough Dynamics: A Randomized Signature Approach
+# Randomized Signatures
+Randomized Signature Layers for Signal Extraction in Time Series Data: Unofficial Code
